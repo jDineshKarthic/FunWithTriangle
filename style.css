@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
 *,
 html {
     margin: 0;
@@ -36,10 +37,11 @@ section {
     display: flex;
     flex-direction: column;
     text-align: center;
+
 }
 
 .psection {
-    background-image: url("/wallpaper.webp");
+    background-image: url("/wallpaper.JPG");
     color: white;
     background-size: cover;
 
@@ -71,6 +73,6 @@ p {
 .footer {
 
     text-align: center;
-    background-color: ##f1730b;
+    background-color: #f1730b;
     padding: 1rem;
 }
